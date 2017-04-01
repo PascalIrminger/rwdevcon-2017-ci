@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1AC79D841E54052F00E42354"
+               BlueprintIdentifier = "1A40DE8F1E76261F00AD791A"
                BuildableName = "RWDevConTests.xctest"
                BlueprintName = "RWDevConTests"
                ReferencedContainer = "container:RWDevCon.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1AC79D971E542EEF00E42354"
+               BlueprintIdentifier = "1A40DE9F1E7649CF00AD791A"
                BuildableName = "RWDevConUITests.xctest"
                BlueprintName = "RWDevConUITests"
                ReferencedContainer = "container:RWDevCon.xcodeproj">
