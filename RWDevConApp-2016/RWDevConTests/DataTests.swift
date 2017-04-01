@@ -65,7 +65,7 @@ class DataTests: XCTestCase {
     XCTAssertEqual(person.fullNameFor("zh"), "吴桐")
   }
   
-  func testFailure() {
-    XCTFail("Deliberately added failing test.")
-  }
+//  func testFailure() {
+//    XCTFail("Deliberately added failing test.")
+//  }
 }
